@@ -1,85 +1,15 @@
-commit dbf0135b65b3388c92c79c37c2c7a84613df36aa
-Author: JJhordanny <j.jhordanny18@hotmail.com>
-Date:   Mon Oct 31 09:29:57 2016 -0400
-
-    archivo borraro
-
-commit e2cd72980e4b38ccbfbb02ba0b392f584427a169
-Author: JJhordanny <j.jhordanny18@hotmail.com>
-Date:   Mon Oct 31 09:29:08 2016 -0400
-
-    Borrar este file
-
-commit 5e89a43d3ae4487246082dec99658726edb3936a
-Author: JJhordanny <j.jhordanny18@hotmail.com>
-Date:   Sun Oct 30 18:06:14 2016 -0400
-
-    aplicando fondo color
-
-commit a3a777a9db61b3e22c6d9ea4408e4978aebe49cd
-Author: JJhordanny <j.jhordanny18@hotmail.com>
-Date:   Sun Oct 30 18:05:13 2016 -0400
-
-    agregando color
-
-commit e699f2e417599c28e8f69b3d7814e773d6c2967d
-Author: JJhordanny <j.jhordanny18@hotmail.com>
-Date:   Sun Oct 30 16:56:45 2016 -0400
-
-    Commit Julio Angel
-
-commit e71ad03b54ccbe06bf44df27bbfafca822b71389
-Merge: 528aea7 1b3825f
-Author: JJhordanny <j.jhordanny18@hotmail.com>
-Date:   Sun Oct 30 16:11:56 2016 -0400
-
-    2do Merge
-
-commit 528aea7b543d3f57a2687143d65b547dea3ca5fc
-Author: JJhordanny <j.jhordanny18@hotmail.com>
-Date:   Sun Oct 30 16:10:38 2016 -0400
-
-    merge!
-
-commit a90809975e72fc973f4a243a2d9ba53c62d8938f
-Merge: 67cc1db 20d0b85
-Author: JJhordanny <j.jhordanny18@hotmail.com>
-Date:   Sun Oct 30 16:10:01 2016 -0400
-
-    1er Merge
-
-commit 20d0b853597b89842b081c3ac8d52f0fdad32e1f
-Author: JJhordanny <j.jhordanny18@hotmail.com>
-Date:   Sun Oct 30 16:00:11 2016 -0400
-
-    Agregando nombre
-
-commit 67cc1db1286b417d4d55e6a209dc168ddb569039
-Author: JJhordanny <j.jhordanny18@hotmail.com>
-Date:   Sun Oct 30 15:59:17 2016 -0400
-
-    otro commit
-
-commit 1b3825f634283086d37c567288e58a67b928dd61
-Author: JJhordanny <j.jhordanny18@hotmail.com>
-Date:   Sun Oct 30 15:58:11 2016 -0400
-
-    Agregando Nombre Novato
-
-commit 2ab0dcabedaaf57fbd137b01e6b60276b8d31a00
-Author: JJhordanny <j.jhordanny18@hotmail.com>
-Date:   Sun Oct 30 15:32:53 2016 -0400
-
-    Agregando titulo de Master Branch
-
-commit ddbb2205014aeee5d33ef51ef76ee7c5d0431d39
-Author: JJhordanny <j.jhordanny18@hotmail.com>
-Date:   Sun Oct 30 15:31:21 2016 -0400
-
-    Agregando otro titulo
-
-commit 7c7adb42f9c8665f74500f40745b1d63ae0e2c0b
-Author: JJhordanny <j.jhordanny18@hotmail.com>
-Date:   Sun Oct 30 12:17:19 2016 -0400
-
-    Primer Commit
+351c0b0 agregando file de commmits
+dbf0135 archivo borraro
+e2cd729 Borrar este file
+5e89a43 aplicando fondo color
+a3a777a agregando color
+e699f2e Commit Julio Angel
+e71ad03 2do Merge
+528aea7 merge!
+a908099 1er Merge
+20d0b85 Agregando nombre
+67cc1db otro commit
+1b3825f Agregando Nombre Novato
+2ab0dca Agregando titulo de Master Branch
+ddbb220 Agregando otro titulo
+7c7adb4 Primer Commit
